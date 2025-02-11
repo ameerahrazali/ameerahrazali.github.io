@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Ameerah Razali
 
 ### Education
 Statistics, BSc
