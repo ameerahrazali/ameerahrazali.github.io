@@ -7,6 +7,6 @@ Statistics, BSc
 Intern
 - E-Learning Module Development
 
-  ### Projects
-  Crime Analysis
-  - Uisng Excel and PowerBI
+### Projects
+Crime Analysis
+- Uisng Excel and PowerBI
