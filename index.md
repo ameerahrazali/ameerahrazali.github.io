@@ -1,4 +1,4 @@
-# Ameerah Razali · Data & Analytics Portfolio
+# Ameerah Razali 
 
 Welcome to my GitHub Pages site — a showcase of selected analytics, modeling, and dashboard projects I've worked on.
 
