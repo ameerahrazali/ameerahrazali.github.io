@@ -1,2 +1,11 @@
 title: Ameerah Razali
 theme: jekyll-theme-cayman
+
+sass:
+  sass_dir: _sass
+  style: compressed 
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme 
