@@ -76,7 +76,7 @@ An interactive R Markdown analysis exploring patterns in subscriber count, conte
 
 An interactive dashboard project analyzing **over 50,000 Boston crime records** using Power BI and Excel. Focused on uncovering crime hotspots, temporal patterns, and offense trends to support public safety decisions.
 
-![Boston Dashboard Cover](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety/main/assets/authority1_demo.png)
+![Boston Dashboard Cover](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety/main/assets/authority1_demo.gif)
 
 **Highlights:**
 - 🕓 Crimes are most frequent between **10 AM – 10 PM**, peaking around **4 PM**.
@@ -143,31 +143,6 @@ An end-to-end time series modeling project using **manual ARIMA tuning** and **b
 
 </details>
 
-
----
-
-## 📈 CPI Forecasting with ARIMA (Python)
-> _How can past inflation data help us predict future trends?_
-
-<details>
-<summary>Click to expand project details</summary>
-
-An end-to-end time series modeling project using **ARIMA** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
-
-![CPI ARIMA Forecast](https://raw.githubusercontent.com/ameerahrazali/malaysia-cpi-fnab-forecast/main/assets/cpi_forecast.png)
-
-**Highlights:**
-- 🔍 Built ARIMA(1,1,2) model manually with statistical testing (ADF, KPSS).
-- 📉 Included backward stepwise regression with lag features to optimize prediction.
-- 📊 Compared forecast results against actual CPI for accuracy assessment.
-
-[🔗 View GitHub Repo](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)
-
-![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)  
-![ARIMA Badge](https://img.shields.io/badge/Model-ARIMA(1,1,2)-purple)  
-![Forecast Badge](https://img.shields.io/badge/Focus-Inflation%20Forecasting-lightgrey)
-
-</details>
 
 ---
 
