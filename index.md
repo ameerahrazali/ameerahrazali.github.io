@@ -47,8 +47,6 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 <details>
 <summary>Click to expand project details</summary>
 
-<br>
-
 An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
 
 ![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.gif)
@@ -67,6 +65,7 @@ An interactive R Markdown analysis exploring patterns in subscriber count, conte
 
 </details>
 
+
 ---
 
 ### 🚨 Boston Public Safety Dashboard  
@@ -74,8 +73,6 @@ An interactive R Markdown analysis exploring patterns in subscriber count, conte
 
 <details>
 <summary>Click to expand project details</summary>
-
-<br>
 
 An interactive dashboard project analyzing **over 50,000 Boston crime records** using Power BI and Excel. Focused on uncovering crime hotspots, temporal patterns, and offense trends to support public safety decisions.
 
@@ -88,11 +85,12 @@ An interactive dashboard project analyzing **over 50,000 Boston crime records** 
 
 [🔗 View GitHub Repo](https://github.com/ameerahrazali/boston-public-safety)
 
-![Power BI Badge](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-![Excel Badge](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?logo=microsoft-excel)
+![Power BI Badge](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)  
+![Excel Badge](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?logo=microsoft-excel)  
 ![Crime Badge](https://img.shields.io/badge/Domain-Crime%20Analytics-red)
 
 </details>
+
 
 ---
 
@@ -101,8 +99,6 @@ An interactive dashboard project analyzing **over 50,000 Boston crime records** 
 
 <details>
 <summary>Click to expand project details</summary>
-
-<br>
 
 This project analyzes Spotify’s 2024 streaming data to classify tracks as explicit or not. The analysis involved data cleaning, EDA, and applying supervised learning models — all performed in Python.
 
@@ -115,16 +111,20 @@ This project analyzes Spotify’s 2024 streaming data to classify tracks as expl
 
 [🔗 View GitHub Repo](https://github.com/ameerahrazali/spotify-streams)
 
-![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)
-![ML Badge](https://img.shields.io/badge/Model-Balanced%20Random%20Forest-green)
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)  
+![ML Badge](https://img.shields.io/badge/Model-Balanced%20Random%20Forest-green)  
 ![Spotify Badge](https://img.shields.io/badge/Domain-Spotify%20Analytics-black?logo=spotify)
 
 </details>
 
+
 ---
 
+## 📈 CPI Forecasting with ARIMA (Python)
+> _How can past inflation data help us predict future trends?_
+
 <details>
-<summary><strong>📈 CPI Forecasting with ARIMA (Python)</strong><br><em>How can past inflation data help us predict future trends?</em></summary>
+<summary>Click to expand project details</summary>
 
 An end-to-end time series modeling project using **manual ARIMA tuning** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
 
@@ -135,18 +135,47 @@ An end-to-end time series modeling project using **manual ARIMA tuning** and **b
 - 📉 Included backward stepwise regression with lag features to optimize prediction.
 - 📊 Compared forecast results against actual CPI for accuracy assessment.
 
-[🔗 View GitHub Repo](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)  
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)
 
-![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)
-![ARIMA Badge](https://img.shields.io/badge/Model-ARIMA(1,1,2)-purple)
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)  
+![ARIMA Badge](https://img.shields.io/badge/Model-ARIMA(1,1,2)-purple)  
+![Forecast Badge](https://img.shields.io/badge/Focus-Inflation%20Forecasting-lightgrey)
+
+</details>
+
+
+---
+
+## 📈 CPI Forecasting with ARIMA (Python)
+> _How can past inflation data help us predict future trends?_
+
+<details>
+<summary>Click to expand project details</summary>
+
+An end-to-end time series modeling project using **ARIMA** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
+
+![CPI ARIMA Forecast](https://raw.githubusercontent.com/ameerahrazali/malaysia-cpi-fnab-forecast/main/assets/cpi_forecast.png)
+
+**Highlights:**
+- 🔍 Built ARIMA(1,1,2) model manually with statistical testing (ADF, KPSS).
+- 📉 Included backward stepwise regression with lag features to optimize prediction.
+- 📊 Compared forecast results against actual CPI for accuracy assessment.
+
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)
+
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)  
+![ARIMA Badge](https://img.shields.io/badge/Model-ARIMA(1,1,2)-purple)  
 ![Forecast Badge](https://img.shields.io/badge/Focus-Inflation%20Forecasting-lightgrey)
 
 </details>
 
 ---
 
+## 💬 Reddit Sentiment Analysis: Hump Day Yay or Nay?
+> _Should Wednesdays be the new weekend?_
+
 <details>
-<summary><strong>💬 Reddit Sentiment Analysis: Hump Day Yay or Nay?</strong><br><em>Should Wednesdays be the new weekend?</em></summary>
+<summary>Click to expand project details</summary>
 
 A lighthearted NLP project exploring Reddit sentiment toward a midweek break. Using over **1,100 comments** from a viral post on r/unpopularopinion, the analysis combines scraping, sentiment scoring, and quirky word clouds to uncover what the internet really thinks of **#MidweekReset**.
 
@@ -160,16 +189,19 @@ A lighthearted NLP project exploring Reddit sentiment toward a midweek break. Us
 
 [🔗 View GitHub Repo](https://github.com/ameerahrazali/wednesday-offs-sentiment)  
 
-![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)
-![VADER Badge](https://img.shields.io/badge/Sentiment-VADER-yellowgreen)
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)  
+![VADER Badge](https://img.shields.io/badge/Sentiment-VADER-yellowgreen)  
 ![Reddit Badge](https://img.shields.io/badge/Data-Reddit%20API-orange)
 
 </details>
 
 ---
 
+## ⚾ MLB SQL Analysis
+> _Exploring player performance with window functions and CTEs_
+
 <details>
-<summary><strong>⚾ MLB SQL Analysis</strong><br><em>Exploring player performance with window functions and CTEs</em></summary>
+<summary>Click to expand project details</summary>
 
 An exploratory SQL analysis of Major League Baseball (MLB) player datasets. Focuses on applying **CTEs**, **subqueries**, and **window functions** to gain insights on player performance, draft origins, and batting stats across seasons.
 
@@ -180,8 +212,9 @@ An exploratory SQL analysis of Major League Baseball (MLB) player datasets. Focu
 
 [🔗 View Project](https://github.com/ameerahrazali/mlb-analysis)
 
-![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql)
-![CTE](https://img.shields.io/badge/Concepts-CTE%2C%20Window%20Functions-orange)
+![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=mysql)  
+![CTE](https://img.shields.io/badge/Concepts-CTE%2C%20Window%20Functions-orange)  
 ![MLB](https://img.shields.io/badge/Data-MLB-lightgrey)
 
 </details>
+
