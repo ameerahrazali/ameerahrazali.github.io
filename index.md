@@ -1,39 +1,35 @@
 ---
 layout: default
 title: Ameerah Razali · Portfolio
+description: Ameerah Razali · Data storyteller, statistics graduate, and lifelong learner exploring the intersection of people, data, and machine learning.
 ---
 
 # 👋 Hi, I'm Ameerah
 
-Welcome! I'm a Statistics graduate with a passion for data storytelling, visualization, and applying statistical methods to real-world problems. My work focuses on the intersection of people, data, and processes — turning insights into impact.
+<img src="https://avatars.githubusercontent.com/u/92135269?s=400&u=31d020baab290a4bcf0196685a401b5dc33bf869&v=4" width="120" alt="Ameerah Razali profile photo" align="right" />
+
+**Always learning, always becoming.**
+
+Welcome to my data portfolio!
+
+I'm a Statistics graduate with a specialization in Big Data Analytics, passionate about turning raw data into meaningful narratives. Whether it’s modeling inflation trends, exploring public sentiment, or visualizing patterns in music and crime, I enjoy solving real-world problems through data.
+
+I’m especially drawn to:
+- 📊 **Data storytelling** that brings insights to life  
+- 🧠 **Statistical modeling** for forecasts and decisions  
+- 💡 **Process improvement** powered by evidence  
+- 🔎 Exploring the human side of data through **sentiment & behavioral analysis**
+
+I have a growing interest in **data science**, particularly in applying **machine learning** to understand complex systems and drive better decisions. I'm constantly exploring new tools and techniques to deepen my skillset.
+
+My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Markdown/HTML**. I believe in clean visuals, reproducible work, and making data accessible to all.
 
 ---
 
-## 📁 Featured Projects
-
-### 🔗 [YouTube Global Statistics Report](./static/youtube-stats-analysis.html)
-An interactive R Markdown report with bootstrap regression and streaming insights.
-
-### 📊 [Boston Public Safety Dashboard](https://github.com/ameerahrazali/boston-public-safety)
-A Power BI dashboard exploring crime patterns by time, type, and severity.
-
-### 🎵 [Spotify Streaming Analysis](https://github.com/ameerahrazali/spotify-streams)
-Classification of explicit content based on track features using EDA and ROC curves.
-
-### 📈 [CPI Forecasting (Malaysia)](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)
-ARIMA modeling and regression-based forecasting of Malaysia’s CPI.
-
-### 🧠 [Reddit Sentiment Analysis](https://github.com/ameerahrazali/wednesday-offs-sentiment)
-Sentiment scoring of Reddit threads using VADER and text preprocessing.
-
-### ⚾ [MLB SQL Analysis](https://github.com/ameerahrazali/mlb-analysis)
-Exploratory SQL queries using CTEs, subqueries, and window functions on player data.
-
----
-
-## 📬 Connect with Me
-
+📌 Connect with me:
 - GitHub: [@ameerahrazali](https://github.com/ameerahrazali)
 - LinkedIn: [linkedin.com/in/ameerahrazali](https://www.linkedin.com/in/ameerahrazali)
 
-Thanks for visiting!
+---
+
+Let’s explore some of the projects I’ve worked on ⬇️
