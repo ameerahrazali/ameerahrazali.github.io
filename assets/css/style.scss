@@ -12,7 +12,7 @@
   display: flex; /* For centering the image inside the circle */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
-  border: 3px solid #159957; /* Optional: Adds a border around the container */
+  border: 3px solid #159957; /*Adds a border around the container */
   /* Remember the inline style `float: right; margin-left: 20px;` in index.md */
 }
 
@@ -22,7 +22,7 @@
   object-fit: cover; /* Ensures the image covers the area, cropping if necessary */
 }
 
-.site-header {
+.page-header.site-header { /* <-- Change this line */
     position: fixed;
     top: 0;
     width: 100%;
@@ -34,5 +34,5 @@
 }
 
 body {
-    padding-top: 90px; /* Adjust this value if your header's total height is different */
+    padding-top: 90px; /* This padding-top is now crucial to avoid content being hidden */
 }
