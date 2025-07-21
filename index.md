@@ -44,6 +44,11 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 ### 📺 YouTube Global Statistics Report  
 > _What drives subscriber growth on the world’s biggest platform?_
 
+<details>
+<summary>Click to expand project details</summary>
+
+<br>
+
 An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
 
 ![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.gif)
@@ -60,62 +65,123 @@ An interactive R Markdown analysis exploring patterns in subscriber count, conte
 ![Bootstrap Badge](https://img.shields.io/badge/Method-Bootstrap%20Regression-orange)
 ![YouTube Badge](https://img.shields.io/badge/Domain-YouTube%20Analytics-red)
 
+</details>
+
 ---
 
-### 📊 Boston Public Safety Dashboard  
-> _How does crime vary across time, severity, and geography in Boston?_
+### 🚨 Boston Public Safety Dashboard  
+> _How can public crime data reveal safer paths forward?_
 
-An interactive dashboard analyzing patterns in crime frequency, severity, and type across Boston neighborhoods using public data from 2023. Built for exploratory and policy-oriented insights.
+<details>
+<summary>Click to expand project details</summary>
 
-![Boston Crime Dashboard](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety/main/assets/authority1_demo.gif)
+<br>
+
+An interactive dashboard project analyzing **over 50,000 Boston crime records** using Power BI and Excel. Focused on uncovering crime hotspots, temporal patterns, and offense trends to support public safety decisions.
+
+![Boston Dashboard Cover](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety/main/assets/authority1_demo.png)
 
 **Highlights:**
-- 🕒 Most crimes occur between **10 AM – 10 PM**, peaking around 4 PM.
-- 🚓 **Larceny and assault** are the most frequent offenses.
-- 🗺️ **Downtown and Roxbury** have the highest crime concentrations.
+- 🕓 Crimes are most frequent between **10 AM – 10 PM**, peaking around **4 PM**.
+- 🔍 Common offenses include **larceny**, **assault**, and **drug violations**.
+- 🗺️ Maps and filters help identify **high-risk neighborhoods** and time zones.
 
-[🔗 View GitHub Repo](https://github.com/ameerahrazali/boston-public-safety)  
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/boston-public-safety)
 
 ![Power BI Badge](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-![Exploratory Badge](https://img.shields.io/badge/Analysis-Exploratory-blue)
-![Public Safety Badge](https://img.shields.io/badge/Theme-Public%20Safety-red)
+![Excel Badge](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?logo=microsoft-excel)
+![Crime Badge](https://img.shields.io/badge/Domain-Crime%20Analytics-red)
+
+</details>
 
 ---
 
-### 🎵 Spotify Streaming Analysis
-Classifies explicit songs using track features with EDA and ROC curve insights.  
-🔗 [View Project](https://github.com/ameerahrazali/spotify-streams)  
+### 🎧 Spotify Streaming Analysis 2024  
+> _Can streaming features help predict whether a song is explicit?_
 
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
-![Classification](https://img.shields.io/badge/Method-Classification-purple)  
-![ROC](https://img.shields.io/badge/Metric-ROC%20Curve-orange)
+<details>
+<summary>Click to expand project details</summary>
 
----
+<br>
 
-### 📈 CPI Forecasting (Malaysia)
-Forecasts Malaysia's CPI using ARIMA modeling and regression on lagged variables.  
-🔗 [View Project](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)  
+This project analyzes Spotify’s 2024 streaming data to classify tracks as explicit or not. The analysis involved data cleaning, EDA, and applying supervised learning models — all performed in Python.
 
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
-![ARIMA](https://img.shields.io/badge/Model-ARIMA-red)  
-![Economics](https://img.shields.io/badge/Focus-Economics-lightgrey)
+![Spotify Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/spotify-streams/main/assets/spotify-analysis.png)
 
----
+**Highlights:**
+- ⚖️ Addressed **class imbalance** using **Balanced Random Forest** and baseline Logistic Regression.
+- 📊 Included **ROC curve evaluation** and comparison between models.
+- 🧹 Comprehensive preprocessing and EDA to understand feature distributions.
 
-### 🧠 Reddit Sentiment Analysis
-Sentiment scoring of Reddit threads with text preprocessing and VADER analysis.  
-🔗 [View Project](https://github.com/ameerahrazali/wednesday-offs-sentiment)  
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/spotify-streams)
 
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
-![VADER](https://img.shields.io/badge/NLP-VADER-green)  
-![Text](https://img.shields.io/badge/Text%20Analysis-Reddit-lightgrey)
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)
+![ML Badge](https://img.shields.io/badge/Model-Balanced%20Random%20Forest-green)
+![Spotify Badge](https://img.shields.io/badge/Domain-Spotify%20Analytics-black?logo=spotify)
+
+</details>
 
 ---
 
-### ⚾ MLB SQL Analysis
-Exploratory SQL analysis on MLB player data using CTEs, subqueries, and window functions.  
-🔗 [View Project](https://github.com/ameerahrazali/mlb-analysis)  
+<details>
+<summary><strong>📈 CPI Forecasting with ARIMA (Python)</strong><br><em>How can past inflation data help us predict future trends?</em></summary>
 
-![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql)  
-![CTE](https://img.shields.io/badge/Concepts-CTE%2C%20Window%20Functions-orange)  
+An end-to-end time series modeling project using **manual ARIMA tuning** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
+
+![CPI ARIMA Forecast](https://raw.githubusercontent.com/ameerahrazali/malaysia-cpi-fnab-forecast/main/assets/cpi_forecast.png)
+
+**Highlights:**
+- 🔍 Built ARIMA(1,1,2) model manually with statistical testing (ADF, KPSS).
+- 📉 Included backward stepwise regression with lag features to optimize prediction.
+- 📊 Compared forecast results against actual CPI for accuracy assessment.
+
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)  
+
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)
+![ARIMA Badge](https://img.shields.io/badge/Model-ARIMA(1,1,2)-purple)
+![Forecast Badge](https://img.shields.io/badge/Focus-Inflation%20Forecasting-lightgrey)
+
+</details>
+
+---
+
+<details>
+<summary><strong>💬 Reddit Sentiment Analysis: Hump Day Yay or Nay?</strong><br><em>Should Wednesdays be the new weekend?</em></summary>
+
+A lighthearted NLP project exploring Reddit sentiment toward a midweek break. Using over **1,100 comments** from a viral post on r/unpopularopinion, the analysis combines scraping, sentiment scoring, and quirky word clouds to uncover what the internet really thinks of **#MidweekReset**.
+
+![Reddit Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/wednesday-offs-sentiment/main/assets/wednesday-offs.png)
+
+**Highlights:**
+- 🧼 Full NLP pipeline: text cleaning, tokenizing, stopword removal.
+- 🧠 VADER sentiment scoring with **negation-aware processing**.
+- 📊 Violin plots and word clouds reveal emotional tones and common themes.
+- 🔍 Top-voted comments skewed **positive or neutral**, supporting midweek reset.
+
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/wednesday-offs-sentiment)  
+
+![Python Badge](https://img.shields.io/badge/Tool-Python-blue?logo=python)
+![VADER Badge](https://img.shields.io/badge/Sentiment-VADER-yellowgreen)
+![Reddit Badge](https://img.shields.io/badge/Data-Reddit%20API-orange)
+
+</details>
+
+---
+
+<details>
+<summary><strong>⚾ MLB SQL Analysis</strong><br><em>Exploring player performance with window functions and CTEs</em></summary>
+
+An exploratory SQL analysis of Major League Baseball (MLB) player datasets. Focuses on applying **CTEs**, **subqueries**, and **window functions** to gain insights on player performance, draft origins, and batting stats across seasons.
+
+**Highlights:**
+- 🧮 Used **window functions** to rank players by home runs and batting average.
+- 🏫 Analyzed player origins by college using joins and aggregations.
+- 📊 Investigated seasonal trends and top performers with flexible SQL queries.
+
+[🔗 View Project](https://github.com/ameerahrazali/mlb-analysis)
+
+![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql)
+![CTE](https://img.shields.io/badge/Concepts-CTE%2C%20Window%20Functions-orange)
 ![MLB](https://img.shields.io/badge/Data-MLB-lightgrey)
+
+</details>
