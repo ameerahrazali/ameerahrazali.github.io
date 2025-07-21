@@ -102,7 +102,7 @@ An interactive dashboard project analyzing **over 50,000 Boston crime records** 
 
 This project analyzes Spotify’s 2024 streaming data to classify tracks as explicit or not. The analysis involved data cleaning, EDA, and applying supervised learning models — all performed in Python.
 
-![Spotify Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/spotify-streams/main/assets/spotify-analysis.png)
+![Spotify Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/spotify-streams/main/assets/spotify_analysis.png)
 
 **Highlights:**
 - ⚖️ Addressed **class imbalance** using **Balanced Random Forest** and baseline Logistic Regression.
