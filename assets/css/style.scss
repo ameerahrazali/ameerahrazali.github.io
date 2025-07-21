@@ -1,1 +1,23 @@
+---
+---
+@import "{{ site.theme }}";
 
+/* Your custom CSS goes below this line */
+
+.profile-pic-container {
+  width: 120px; /* Set the container width */
+  height: 120px; /* Set the container height */
+  border-radius: 50%; /* Make the container circular */
+  overflow: hidden; /* Crucial: Hides any part of the image that overflows the circle */
+  display: flex; /* For centering the image inside the circle */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  border: 3px solid #159957; /* Optional: Adds a border around the container */
+  /* Remember the inline style `float: right; margin-left: 20px;` in index.md */
+}
+
+.profile-pic-container img {
+  width: 100%; /* Make image fill the container */
+  height: 100%; /* Make image fill the container */
+  object-fit: cover; /* Ensures the image covers the area, cropping if necessary */
+}
