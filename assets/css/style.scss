@@ -22,7 +22,7 @@
   object-fit: cover; /* Ensures the image covers the area, cropping if necessary */
 }
 
-.page-header.site-header { /* <-- Change this line */
+.page-header { 
     position: fixed;
     top: 0;
     width: 100%;
