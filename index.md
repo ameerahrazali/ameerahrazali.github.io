@@ -11,7 +11,7 @@ Welcome! I'm a Statistics graduate with a passion for data storytelling, visuali
 
 ## 📁 Featured Projects
 
-### 🔗 [YouTube Global Statistics Report](./pages/youtube-stats-analysis.html)
+### 🔗 [YouTube Global Statistics Report](./page/youtube-stats-analysis.html)
 An interactive R Markdown report with bootstrap regression and streaming insights.
 
 ### 📊 [Boston Public Safety Dashboard](https://github.com/ameerahrazali/boston-public-safety)
