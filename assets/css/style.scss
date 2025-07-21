@@ -21,3 +21,18 @@
   height: 100%; /* Make image fill the container */
   object-fit: cover; /* Ensures the image covers the area, cropping if necessary */
 }
+
+.site-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fcfcfc;
+    padding: 20px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    z-index: 1000;
+    text-align: center;
+}
+
+body {
+    padding-top: 90px; /* Adjust this value if your header's total height is different */
+}
