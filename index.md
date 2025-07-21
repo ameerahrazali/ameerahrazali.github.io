@@ -12,6 +12,8 @@ description: Data storyteller, statistics graduate, and lifelong learner explori
 
 **Always learning, always becoming.**
 
+## <span id="about-me">About Me</span> ✨
+
 Welcome to my data portfolio!
 
 I'm a Statistics graduate with a specialization in Big Data Analytics, passionate about turning raw data into meaningful narratives. Whether it’s modeling inflation trends, exploring public sentiment, or visualizing patterns in music and crime, I enjoy solving real-world problems through data.
@@ -28,20 +30,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 ---
 
-📌 Connect with me:
-
-<p align="left">
-  <a href="https://github.com/ameerahrazali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ameerahrazali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
-
-## 📁 Featured Projects
+## <span id="projects">Featured Projects</span> 📈📊🤖
 
 ### 📺 YouTube Global Statistics Report  
 > _What drives subscriber growth on the world’s biggest platform?_
@@ -195,3 +184,19 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   "
 %}
 
+---
+
+## <span id="reach-me">Reach Me</span> 📧
+
+<p align="left">
+  <a href="https://github.com/ameerahrazali" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ameerahrazali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+Thank you for your visit!
