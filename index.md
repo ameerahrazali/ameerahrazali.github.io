@@ -14,7 +14,7 @@ Welcome! I'm a Statistics graduate with a passion for data storytelling, visuali
 ### 🔗 [YouTube Global Statistics Report](./pages/youtube-analysis.html)
 An interactive R Markdown report with bootstrap regression and streaming insights.
 
-### 📊 [Boston Public Safety Dashboard](https://github.com/ameerahrazali/boston-public-safety-dashboard)
+### 📊 [Boston Public Safety Dashboard](https://github.com/ameerahrazali/boston-public-safety)
 A Power BI dashboard exploring crime patterns by time, type, and severity.
 
 ### 🎵 [Spotify Streaming Analysis](https://github.com/ameerahrazali/spotify-streams)
@@ -23,7 +23,7 @@ Classification of explicit content based on track features using EDA and ROC cur
 ### 📈 [CPI Forecasting (Malaysia)](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)
 ARIMA modeling and regression-based forecasting of Malaysia’s CPI.
 
-### 🧠 [Reddit Sentiment Analysis](https://github.com/ameerahrazali/reddit-sentiment)
+### 🧠 [Reddit Sentiment Analysis](https://github.com/ameerahrazali/wednesday-offs-sentiment)
 Sentiment scoring of Reddit threads using VADER and text preprocessing.
 
 ### ⚾ [MLB SQL Analysis](https://github.com/ameerahrazali/mlb-analysis)
