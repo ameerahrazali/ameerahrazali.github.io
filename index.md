@@ -42,68 +42,80 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 Let’s explore some of the projects I’ve worked on ⬇️
 
-## 📁 Featured Projects
+<h2>📁 Featured Projects</h2>
 
 <details>
-<summary>📺 <strong>YouTube Global Statistics Report</strong></summary>
+<summary><strong>📺 YouTube Global Statistics Report</strong></summary>
+<p>
+An interactive R Markdown report analyzing YouTube global streaming trends using <strong>bootstrap regression</strong> and descriptive insights.<br><br>
+🔗 <a href="https://github.com/ameerahrazali/global-youtube-statistics">View Project</a><br>
 
-📊 An interactive R Markdown report analyzing YouTube global streaming trends using **bootstrap regression** and descriptive insights.  
-🔗 [View Project](https://github.com/ameerahrazali/global-youtube-statistics)
-
-![R](https://img.shields.io/badge/Language-R-blue?logo=r)  
-![Bootstrap](https://img.shields.io/badge/Method-Bootstrap-red) ![EDA](https://img.shields.io/badge/EDA-Exploration-yellow)
-
+<img src="https://img.shields.io/badge/Language-R-blue?logo=r" alt="R Badge">
+<img src="https://img.shields.io/badge/Method-Bootstrap-red" alt="Bootstrap Badge">
+<img src="https://img.shields.io/badge/Focus-Streaming%20Analysis-lightgrey" alt="Streaming Badge">
+</p>
 </details>
 
 <details>
-<summary>🕵️‍♀️ <strong>Boston Public Safety Dashboard</strong></summary>
+<summary><strong>🕵️‍♀️ Boston Public Safety Dashboard</strong></summary>
+<p>
+A Power BI dashboard exploring Boston crime patterns by time, category, and severity.<br><br>
+🔗 <a href="https://github.com/ameerahrazali/boston-public-safety">View Project</a><br>
 
-📉 Power BI dashboard examining crime patterns by **time**, **category**, and **severity**, offering actionable insights for safety improvement.  
-🔗 [View Project](https://github.com/ameerahrazali/boston-public-safety)
-
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)  
-![Data Cleaning](https://img.shields.io/badge/Skills-Data%20Cleaning-green) ![Visualization](https://img.shields.io/badge/Visualization-Dashboard-blue)
-
+<img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi" alt="Power BI Badge">
+<img src="https://img.shields.io/badge/Data-Crime-blue" alt="Crime Badge">
+<img src="https://img.shields.io/badge/Skills-Visualization-green" alt="Visualization Badge">
+</p>
 </details>
 
 <details>
-<summary>🎵 <strong>Spotify Streaming Analysis</strong></summary>
+<summary><strong>🎵 Spotify Streaming Analysis</strong></summary>
+<p>
+Classifies explicit songs using track features with EDA and ROC curve insights.<br><br>
+🔗 <a href="https://github.com/ameerahrazali/spotify-streams">View Project</a><br>
 
-🎯 Classification model predicting **explicit content** in music tracks using **logistic regression** and **random forests**.  
-🔗 [View Project](https://github.com/ameerahrazali/spotify-streams)
-
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
-![Classification](https://img.shields.io/badge/Method-Classification-orange) ![ROC](https://img.shields.io/badge/Model-ROC--AUC-red)
-
+<img src="https://img.shields.io/badge/Language-Python-blue?logo=python" alt="Python Badge">
+<img src="https://img.shields.io/badge/Method-Classification-purple" alt="Classification Badge">
+<img src="https://img.shields.io/badge/Metric-ROC%20Curve-orange" alt="ROC Badge">
+</p>
 </details>
 
 <details>
-<summary>📈 <strong>CPI Forecasting (Malaysia)</strong></summary>
+<summary><strong>📈 CPI Forecasting (Malaysia)</strong></summary>
+<p>
+Forecasts Malaysia's CPI using ARIMA modeling and regression on lagged variables.<br><br>
+🔗 <a href="https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast">View Project</a><br>
 
-📅 Forecasting Malaysia’s **Consumer Price Index** using **ARIMA modeling** and **stepwise regression** to evaluate inflation trends.  
-🔗 [View Project](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast)
-
-![R](https://img.shields.io/badge/Language-R-blue?logo=r) ![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)  
-![Time Series](https://img.shields.io/badge/Model-ARIMA-lightgrey) ![Forecasting](https://img.shields.io/badge/Forecasting-Stepwise--Regression-green)
-
+<img src="https://img.shields.io/badge/Language-Python-blue?logo=python" alt="Python Badge">
+<img src="https://img.shields.io/badge/Model-ARIMA-red" alt="ARIMA Badge">
+<img src="https://img.shields.io/badge/Focus-Economics-lightgrey" alt="Economics Badge">
+</p>
 </details>
 
 <details>
-<summary>💬 <strong>Reddit Sentiment Analysis</strong></summary>
+<summary><strong>🧠 Reddit Sentiment Analysis</strong></summary>
+<p>
+Sentiment scoring of Reddit threads with text preprocessing and VADER analysis.<br><br>
+🔗 <a href="https://github.com/ameerahrazali/wednesday-offs-sentiment">View Project</a><br>
 
-🧠 Manual sentiment labeling of Reddit threads related to 4-day workweek debates, using **VADER** and **text preprocessing** for NLP.  
-🔗 [View Project](https://github.com/ameerahrazali/wednesday-offs-sentiment)
-
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
-![Sentiment Analysis](https://img.shields.io/badge/NLP-Sentiment--Scoring-red) ![Manual Labeling](https://img.shields.io/badge/Annotation-Manual-orange)
-
+<img src="https://img.shields.io/badge/Language-Python-blue?logo=python" alt="Python Badge">
+<img src="https://img.shields.io/badge/NLP-VADER-green" alt="VADER Badge">
+<img src="https://img.shields.io/badge/Text%20Analysis-Reddit-lightgrey" alt="Text Analysis Badge">
+</p>
 </details>
 
 <details>
-<summary>⚾ <strong>MLB SQL Analysis</strong></summary>
+<summary><strong>⚾ MLB SQL Analysis</strong></summary>
+<p>
+Exploratory SQL analysis on MLB player data using CTEs, subqueries, and window functions.<br><br>
+🔗 <a href="https://github.com/ameerahrazali/mlb-analysis">View Project</a><br>
 
-📋 Exploratory SQL queries analyzing **player** and **school** data with joins, subqueries, and window functions.  
-🔗 [View Project](https://github.com/ameerahrazali/mlb-analysis)
+<img src="https://img.shields.io/badge/Language-SQL-blue?logo=postgresql" alt="SQL Badge">
+<img src="https://img.shields.io/badge/Concepts-CTE%2C%20Window%20Functions-orange" alt="SQL Concepts Badge">
+<img src="https://img.shields.io/badge/Data-MLB-lightgrey" alt="MLB Badge">
+</p>
+</details>
+
 
 ![SQL](https://img.shields.io/badge/Language-SQL-lightgrey?logo=sqlite)  
 ![CTE](https://img.shields.io/badge/Technique-CTE--Window--Functions-blue) ![Queries](https://img.shields.io/badge/Exploration-Subqueries-green)
