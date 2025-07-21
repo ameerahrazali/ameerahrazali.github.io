@@ -1,1 +1,23 @@
-{% include top_navigation.html %}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#main-content">Skip to main content</a>
+
+    {% include top_navigation.html %} {# This is your new sticky navigation bar #}
+
+    {% include header.html %} {# This is the original Cayman theme's header (your portfolio name/description) #}
+
+    <div class="wrapper">
+      <main id="main-content" class="main-content" role="main">
+        {{ content }} {# <--- THIS IS THE CRUCIAL LINE #}
+      </main>
+
+      <footer class="site-footer">
+        {% include footer.html %}
+      </footer>
+    </div>
+  </body>
+</html>
