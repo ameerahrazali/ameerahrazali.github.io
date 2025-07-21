@@ -128,7 +128,7 @@ This project analyzes Spotify’s 2024 streaming data to classify tracks as expl
 
 An end-to-end time series modeling project using **manual ARIMA tuning** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
 
-![CPI ARIMA Forecast](https://raw.githubusercontent.com/ameerahrazali/malaysia-cpi-fnab-forecast/main/assets/cpi_forecast.png)
+![CPI ARIMA Forecast](https://raw.githubusercontent.com/ameerahrazali/malaysia-cpi-fnab-forecast/main/plots/cpi_forecast.png)
 
 **Highlights:**
 - 🔍 Built ARIMA(1,1,2) model manually with statistical testing (ADF, KPSS).
@@ -154,7 +154,7 @@ An end-to-end time series modeling project using **manual ARIMA tuning** and **b
 
 A lighthearted NLP project exploring Reddit sentiment toward a midweek break. Using over **1,100 comments** from a viral post on r/unpopularopinion, the analysis combines scraping, sentiment scoring, and quirky word clouds to uncover what the internet really thinks of **#MidweekReset**.
 
-![Reddit Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/wednesday-offs-sentiment/main/assets/wednesday-offs.png)
+![Reddit Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/wednesday-offs-sentiment/main/assets/wednesday_offs.png)
 
 **Highlights:**
 - 🧼 Full NLP pipeline: text cleaning, tokenizing, stopword removal.
