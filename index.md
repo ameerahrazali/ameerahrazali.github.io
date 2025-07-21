@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ameerah Razali · Portfolio
-description: Ameerah Razali · Data storyteller, statistics graduate, and lifelong learner exploring the intersection of people, data, and machine learning.
+description: Data storyteller, statistics graduate, and lifelong learner exploring the intersection of people, data, and machine learning.
 ---
 
 # 👋 Hi, I'm Ameerah
