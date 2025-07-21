@@ -121,7 +121,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 ---
 
-## 📈 CPI Forecasting with ARIMA (Python)
+### 📈 CPI Forecasting with ARIMA (Python)
 > _How can past inflation data help us predict future trends?_
 
 {% include collapsible_project.html
@@ -147,7 +147,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 ---
 
-## 💬 Reddit Sentiment Analysis: Hump Day Yay or Nay?
+### 💬 Reddit Sentiment Analysis: Hump Day Yay or Nay?
 > _Should Wednesdays be the new weekend?_
 
 {% include collapsible_project.html
@@ -174,7 +174,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 ---
 
-## ⚾ MLB SQL Analysis
+### ⚾ MLB SQL Analysis
 > _Exploring player performance with window functions and CTEs_
 
 {% include collapsible_project.html
