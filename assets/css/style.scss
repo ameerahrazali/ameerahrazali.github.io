@@ -22,17 +22,50 @@
   object-fit: cover; /* Ensures the image covers the area, cropping if necessary */
 }
 
-.page-header { 
-    position: fixed;
-    top: 0;
-    width: 100%;
-    background-color: #fcfcfc;
-    padding: 20px 0;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    z-index: 1000;
-    text-align: center;
+.page-header {
+  color: #fff; 
+  text-align: center; 
+  background-color: #159957; 
+  background-image: linear-gradient(120deg, #155799, #159957); 
+  padding: 5rem 6rem; 
+}
+
+.top-nav {
+  position: fixed; /* Makes the navigation bar stay at the top */
+  top: 0;          /* Positions it at the very top of the viewport */
+  width: 100%;     /* Makes it span the full width of the screen */
+  background-color: #fcfcfc; /* A light background for the nav bar */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for visual separation */
+  z-index: 1000;   /* Ensures the nav bar stays on top of other content */
+  padding: 15px 20px; /* Padding inside the nav bar itself */
+  text-align: center; /* Center the navigation links */
+}
+
+.top-nav ul {
+  list-style: none; /* Remove default bullet points from list items */
+  margin: 0;        /* Remove default margin */
+  padding: 0;       /* Remove default padding */
+  display: flex;    /* Use flexbox to arrange list items horizontally */
+  justify-content: center; /* Center the links within the nav bar */
+}
+
+.top-nav li {
+  margin: 0 15px; /* Spacing between individual navigation items */
+}
+
+.top-nav a {
+  color: #159957; /* Color of the navigation links */
+  text-decoration: none; /* Remove underline from links */
+  font-weight: bold; /* Make link text bold */
+  padding: 5px 0; /* Add some vertical padding for easier clicking */
+  transition: color 0.2s; /* Smooth transition for hover effect */
+}
+
+.top-nav a:hover {
+  color: #155799; /* Darker green/blue on hover */
+  text-decoration: none; /* Ensure no underline on hover */
 }
 
 body {
-    padding-top: 90px; /* This padding-top is now crucial to avoid content being hidden */
+    padding-top: 60px; /* This padding-top is now crucial to avoid content being hidden */
 }
