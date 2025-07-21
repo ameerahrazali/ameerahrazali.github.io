@@ -53,7 +53,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   - 🌍 **U.S. and India dominate** the top channel landscape.
 
   [🔗 View GitHub Repo](https://github.com/ameerahrazali/global-youtube-statistics)
-  [📄 Read the Report on RPubs](https://rpubs.com/ameerahrazali/youtube-stats)
+  [📄 Read the Report on RPubs](https://rpubs.com/ameerahrazali/youtube-stats-analysis)
 
   ![R Badge](https://img.shields.io/badge/Tool-R%20Markdown-blue?logo=r)
   ![Bootstrap Badge](https://img.shields.io/badge/Method-Bootstrap%20Regression-orange)
