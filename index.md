@@ -12,6 +12,8 @@ description: Data storyteller, statistics graduate, and lifelong learner explori
 
 **Always learning, always becoming.**
 
+---
+
 ## <span id="about-me">About Me</span> ✨
 
 Welcome to my data portfolio!
