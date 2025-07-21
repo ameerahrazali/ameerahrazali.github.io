@@ -46,7 +46,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
 
-![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.png)
+![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.gif)
 
 **Highlights:**
 - 🎶 **Entertainment and Music** lead in both views and subscribers.
@@ -67,7 +67,7 @@ An interactive R Markdown analysis exploring patterns in subscriber count, conte
 
 An interactive dashboard analyzing patterns in crime frequency, severity, and type across Boston neighborhoods using public data from 2023. Built for exploratory and policy-oriented insights.
 
-![Boston Crime Dashboard](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety-dashboard/main/assets/authority1_demo.gif)
+![Boston Crime Dashboard](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety/main/assets/authority1_demo.gif)
 
 **Highlights:**
 - 🕒 Most crimes occur between **10 AM – 10 PM**, peaking around 4 PM.
