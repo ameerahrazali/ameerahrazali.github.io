@@ -41,23 +41,44 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 ## 📁 Featured Projects
 
-### 📺 YouTube Global Statistics Report
-An interactive R Markdown report analyzing YouTube global streaming trends using **bootstrap regression** and descriptive insights.  
-🔗 [View Project](https://github.com/ameerahrazali/global-youtube-statistics)  
+### 📺 YouTube Global Statistics Report  
+> _What drives subscriber growth on the world’s biggest platform?_
 
-![R](https://img.shields.io/badge/Language-R-blue?logo=r) 
-![Bootstrap](https://img.shields.io/badge/Method-Bootstrap-red) 
-![Streaming](https://img.shields.io/badge/Focus-Streaming%20Analysis-lightgrey)
+An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
+
+![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.png)
+
+**Highlights:**
+- 🎶 **Entertainment and Music** lead in both views and subscribers.
+- 📉 **More uploads ≠ more subscribers** — the relationship is weak and nonlinear.
+- 🌍 **U.S. and India dominate** the top channel landscape.
+
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/global-youtube-statistics)  
+[📄 Read the Report on RPubs](https://rpubs.com/ameerahrazali/youtube-stats)
+
+![R Badge](https://img.shields.io/badge/Tool-R%20Markdown-blue?logo=r)
+![Bootstrap Badge](https://img.shields.io/badge/Method-Bootstrap%20Regression-orange)
+![YouTube Badge](https://img.shields.io/badge/Domain-YouTube%20Analytics-red)
 
 ---
 
-### 🕵️‍♀️ Boston Public Safety Dashboard
-A Power BI dashboard exploring Boston crime patterns by time, category, and severity.  
-🔗 [View Project](https://github.com/ameerahrazali/boston-public-safety)  
+### 📊 Boston Public Safety Dashboard  
+> _How does crime vary across time, severity, and geography in Boston?_
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)  
-![Crime](https://img.shields.io/badge/Data-Crime-blue)  
-![Visualization](https://img.shields.io/badge/Skills-Visualization-green)
+An interactive dashboard analyzing patterns in crime frequency, severity, and type across Boston neighborhoods using public data from 2023. Built for exploratory and policy-oriented insights.
+
+![Boston Crime Dashboard](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety-dashboard/main/assets/authority1_demo.gif)
+
+**Highlights:**
+- 🕒 Most crimes occur between **10 AM – 10 PM**, peaking around 4 PM.
+- 🚓 **Larceny and assault** are the most frequent offenses.
+- 🗺️ **Downtown and Roxbury** have the highest crime concentrations.
+
+[🔗 View GitHub Repo](https://github.com/ameerahrazali/boston-public-safety)  
+
+![Power BI Badge](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Exploratory Badge](https://img.shields.io/badge/Analysis-Exploratory-blue)
+![Public Safety Badge](https://img.shields.io/badge/Theme-Public%20Safety-red)
 
 ---
 
