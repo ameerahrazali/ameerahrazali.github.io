@@ -45,6 +45,8 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   content="
   An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
 
+  📌 **Featured Visual:**
+
   ![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.gif)
 
   **Highlights:**
@@ -71,13 +73,15 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   content="
   An interactive dashboard project analyzing **over 50,000 Boston crime records** using Power BI and Excel. Focused on uncovering crime hotspots, temporal patterns, and offense trends to support public safety decisions.
   
+  📌 **Featured Visual:**
+  
   ![Boston Dashboard Cover](https://raw.githubusercontent.com/ameerahrazali/boston-public-safety/main/assets/authority1_demo.gif)
   
   **Highlights:**
   - 🕓 Crimes are most frequent between **10 AM – 10 PM**, peaking around **4 PM**.
   - 🔍 Common offenses include **larceny**, **assault**, and **drug violations**.
   - 🗺️ Maps and filters help identify **high-risk neighborhoods** and time zones.
-  
+
   [🔗 View GitHub Repo](https://github.com/ameerahrazali/boston-public-safety)
   
   ![Power BI Badge](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)  
@@ -96,6 +100,8 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   summary_text="Click to expand project details"
   content="
   This project analyzes Spotify’s 2024 streaming data to classify tracks as explicit or not. The analysis involved data cleaning, EDA, and applying supervised learning models — all performed in Python.
+
+  📌 **Featured Visual:**
   
   ![Spotify Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/spotify-streams/main/assets/spotify_analysis.png)
   
@@ -122,6 +128,8 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   summary_text="Click to expand project details"
   content="
   An end-to-end time series modeling project using **manual ARIMA tuning** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
+
+  📌 **Featured Visual:**
   
   ![CPI ARIMA Forecast](https://raw.githubusercontent.com/ameerahrazali/malaysia-cpi-fnab-forecast/main/plots/cpi_forecast.png)
   
@@ -148,6 +156,8 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
   summary_text="Click to expand project details"
   content="
   A lighthearted NLP project exploring Reddit sentiment toward a midweek break. Using over **1,100 comments** from a viral post on r/unpopularopinion, the analysis combines scraping, sentiment scoring, and quirky word clouds to uncover what the internet really thinks of **#MidweekReset**.
+
+  📌 **Featured Visual:**
   
   ![Reddit Analysis Cover](https://raw.githubusercontent.com/ameerahrazali/wednesday-offs-sentiment/main/assets/wednesday_offs.png)
   
@@ -204,4 +214,11 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 
 ---
 
-Thank you for your visit!
+### ☕ Thank You
+
+Appreciate you stopping by!  
+Whether it's building models or making sense of meme sentiment, I love bringing data to life — usually with a strong coffee in hand.  
+Let’s chat if you're into dashboards, storytelling, or data that makes you go “huh, interesting.”
+
+_Chasing patterns, questions, and great coffee,_  
+**— Ameerah**
