@@ -8,7 +8,7 @@ description: Data storyteller, statistics graduate, and lifelong learner explori
 
 <div class="profile-pic-container" style="float: right; margin-left: 20px;">
   <img src="https://avatars.githubusercontent.com/u/92135269?s=400&u=31d020baab290a4bcf0196685a401b5dc33bf869&v=4"
-       width="220"
+       width="260"
        style="height: auto; border-radius: 8px;"
        alt="Ameerah Razali profile photo" />
 </div>
