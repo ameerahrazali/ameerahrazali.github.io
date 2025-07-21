@@ -44,27 +44,26 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 ### 📺 YouTube Global Statistics Report  
 > _What drives subscriber growth on the world’s biggest platform?_
 
-<details>
-<summary>Click to expand project details</summary>
+{% include collapsible_project.html
+  summary_text="Click to expand project details"
+  content="
+  An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
 
-An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
+  ![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.gif)
 
-![YouTube Report Cover](https://raw.githubusercontent.com/ameerahrazali/global-youtube-statistics/main/assets/top_channel.gif)
+  **Highlights:**
+  - 🎶 **Entertainment and Music** lead in both views and subscribers.
+  - 📉 **More uploads ≠ more subscribers** — the relationship is weak and nonlinear.
+  - 🌍 **U.S. and India dominate** the top channel landscape.
 
-**Highlights:**
-- 🎶 **Entertainment and Music** lead in both views and subscribers.
-- 📉 **More uploads ≠ more subscribers** — the relationship is weak and nonlinear.
-- 🌍 **U.S. and India dominate** the top channel landscape.
+  [🔗 View GitHub Repo](https://github.com/ameerahrazali/global-youtube-statistics)
+  [📄 Read the Report on RPubs](https://rpubs.com/ameerahrazali/youtube-stats)
 
-[🔗 View GitHub Repo](https://github.com/ameerahrazali/global-youtube-statistics)  
-[📄 Read the Report on RPubs](https://rpubs.com/ameerahrazali/youtube-stats)
-
-![R Badge](https://img.shields.io/badge/Tool-R%20Markdown-blue?logo=r)
-![Bootstrap Badge](https://img.shields.io/badge/Method-Bootstrap%20Regression-orange)
-![YouTube Badge](https://img.shields.io/badge/Domain-YouTube%20Analytics-red)
-
-</details>
-
+  ![R Badge](https://img.shields.io/badge/Tool-R%20Markdown-blue?logo=r)
+  ![Bootstrap Badge](https://img.shields.io/badge/Method-Bootstrap%20Regression-orange)
+  ![YouTube Badge](https://img.shields.io/badge/Domain-YouTube%20Analytics-red)
+  "
+%}
 
 ---
 
