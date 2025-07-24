@@ -4,21 +4,24 @@
 
 
 .profile-pic-container {
-  width: 200px; /* Set the container width */
-  height: 200px; /* Set the container height */
-  border-radius: 50%; /* Make the container circular */
-  overflow: hidden; /* Crucial: Hides any part of the image that overflows the circle */
-  display: flex; /* For centering the image inside the circle */
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  border: 3px solid #159957; /*Adds a border around the container */
-  /* Remember the inline style `float: right; margin-left: 20px;` in index.md */
+  width: 200px; /* Changed from 120px */
+  height: 200px; /* Changed from 120px */
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #159957;
+
+  float: right;
+  margin-left: 20px;
+  margin-top: -20px; /* Adjust this value (e.g., -10px, -30px) to fine-tune vertical alignment */
 }
 
 .profile-pic-container img {
-  width: 100%; /* Make image fill the container */
-  height: 100%; /* Make image fill the container */
-  object-fit: cover; /* Ensures the image covers the area, cropping if necessary */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .page-header {
