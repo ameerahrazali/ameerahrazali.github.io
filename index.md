@@ -4,14 +4,13 @@ title: Ameerah Razali · Portfolio
 description: Data storyteller, statistics graduate, and lifelong learner exploring the intersection of people, data, and machine learning.
 ---
 
-# 👋 Hi, I'm Ameerah
-
-<div class="profile-pic-container" style="float: right; margin-left: 20px;">
+<div class="profile-pic-container">
   <img src="https://avatars.githubusercontent.com/u/92135269?s=400&u=31d020baab290a4bcf0196685a401b5dc33bf869&v=4"
-       width="200"
-       style="height: auto; border-radius: 8px;"
+       style="height: auto; border-radius: 8px;" 
        alt="Ameerah Razali profile photo" />
 </div>
+
+# 👋 Hi, I'm Ameerah 
 
 **Always learning, always becoming.**
 
