@@ -22,18 +22,21 @@ description: Data storyteller, statistics graduate, and lifelong learner explori
 Welcome to my data portfolio!
 
 <div class="justify-text">
-
+{% capture about_me_text %}
 I'm a Statistics graduate with a specialization in Big Data Analytics, passionate about turning raw data into meaningful narratives. Whether it’s modeling inflation trends, exploring public sentiment, or visualizing patterns in music and crime, I enjoy solving real-world problems through data.
 
 I’m especially drawn to:
-- 📊 **Data storytelling** that brings insights to life  
-- 🧠 **Statistical modeling** for forecasts and decisions  
-- 💡 **Process improvement** powered by evidence  
+- 📊 **Data storytelling** that brings insights to life
+- 🧠 **Statistical modeling** for forecasts and decisions
+- 💡 **Process improvement** powered by evidence
 - 🔎 Exploring the human side of data through **sentiment & behavioral analysis**
 
 I have a growing interest in **data science**, particularly in applying **machine learning** to understand complex systems and drive better decisions. I'm constantly exploring new tools and techniques to deepen my skillset.
 
 My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Markdown/HTML**. I believe in clean visuals, reproducible work, and making data accessible to all.
+{% endcapture %}
+
+{{ about_me_text | markdownify }}
 
 </div>
 
