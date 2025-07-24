@@ -65,7 +65,8 @@
   text-decoration: none; /* Ensure no underline on hover */
 }
 
-.justify {
+.markdown-body p,
+.markdown-body li {
   text-align: justify;
 }
 
