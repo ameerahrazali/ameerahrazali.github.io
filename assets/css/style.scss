@@ -65,6 +65,10 @@
   text-decoration: none; /* Ensure no underline on hover */
 }
 
+.justify {
+  text-align: justify;
+}
+
 body {
     padding-top: 60px; /* This padding-top is now crucial to avoid content being hidden */
 }
