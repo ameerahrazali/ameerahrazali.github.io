@@ -190,18 +190,29 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 {% include collapsible_project.html
   summary_text="Click to expand project details"
   content="
-  An exploratory SQL analysis of Major League Baseball (MLB) player datasets. Focuses on applying **CTEs**, **subqueries**, and **window functions** to gain insights on player performance, draft origins, and batting stats across seasons.
+  A structured SQL and Tableau project analyzing Major League Baseball (MLB) player data from Maven Analytics. The SQL portion focuses on player origins, salaries, and career spans using CTEs, window functions, and aggregation techniques. Tableau brings the findings to life through interactive visuals.
   
+  📌 **Featured Visual:**
+  
+  ![MLB Dashboard Preview](https://raw.githubusercontent.com/ameerahrazali/mlb-analysis/main/assets/MLB_Salary.gif)
+
   **Highlights:**
-  - 🧮 Used **window functions** to rank players by home runs and batting average.
-  - 🏫 Analyzed player origins by college using joins and aggregations.
-  - 📊 Investigated seasonal trends and top performers with flexible SQL queries.
+  - 🧮 Applied `ROW_NUMBER`, `NTILE`, and `LAG` to analyze debut/final games and career lengths.
+  - 🏫 Identified top schools producing high-earning, long-career MLB players.
+  - 💸 Explored team salary distributions and milestone thresholds (**$1B+ in salary spend**).  
+  - 📊 Built a Tableau dashboard featuring:
+    - Treemap of **top 10 salary-producing schools**  
+    - Funnel from **schools to $5M+ players**  
+    - Scatter plot of **career span vs. school salary**  
+    - Choropleth map of **player origins by state**  
+    - Bar chart of **top schools by career longevity**
   
   [🔗 View Project](https://github.com/ameerahrazali/mlb-analysis)
   
   ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=mysql)  
   ![CTE](https://img.shields.io/badge/Concepts-CTE%2C%20Window%20Functions-orange)  
   ![MLB](https://img.shields.io/badge/Data-MLB-lightgrey)
+  ![Tableau](https://img.shields.io/badge/Visualization-Tableau-blueviolet?logo=tableau)
   "
 %}
 
