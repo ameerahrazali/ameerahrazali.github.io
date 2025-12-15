@@ -47,7 +47,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 > _What drives subscriber growth on the world’s biggest platform?_
 
 {% include collapsible_project.html
-  summary_text="Click to expand project details"
+  summary_text="Click to expand/collapse project details"
   content="
   An interactive R Markdown analysis exploring patterns in subscriber count, content category, and geography — powered by bootstrap regression and statistical testing.
 
@@ -75,7 +75,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 > _How can public crime data reveal safer paths forward?_
 
 {% include collapsible_project.html
-  summary_text="Click to expand project details"
+  summary_text="Click to expand/collapse project details"
   content="
   An interactive dashboard project analyzing **over 50,000 Boston crime records** using Power BI and Excel. Focused on uncovering crime hotspots, temporal patterns, and offense trends to support public safety decisions.
   
@@ -103,7 +103,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 > _Can streaming features help predict whether a song is explicit?_
 
 {% include collapsible_project.html
-  summary_text="Click to expand project details"
+  summary_text="Click to expand/collapse project details"
   content="
   This project analyzes Spotify’s 2024 streaming data to classify tracks as explicit or not. The analysis involved data cleaning, EDA, and applying supervised learning models — all performed in Python.
 
@@ -131,7 +131,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 > _How can past inflation data help us predict future trends?_
 
 {% include collapsible_project.html
-  summary_text="Click to expand project details"
+  summary_text="Click to expand/collapse project details"
   content="
   An end-to-end time series modeling project using **manual ARIMA tuning** and **backward stepwise regression** to forecast Malaysia’s Consumer Price Index (CPI). The final model was evaluated against actual CPI values from Sep 2023–Aug 2024.
 
@@ -159,7 +159,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 > _Should Wednesdays be the new weekend?_
 
 {% include collapsible_project.html
-  summary_text="Click to expand project details"
+  summary_text="Click to expand/collapse project details"
   content="
   A lighthearted NLP project exploring Reddit sentiment toward a midweek break. Using over **1,100 comments** from a viral post on r/unpopularopinion, the analysis combines scraping, sentiment scoring, and quirky word clouds to uncover what the internet really thinks of **#MidweekReset**.
 
@@ -188,7 +188,7 @@ My current toolkit includes **R**, **Python**, **SQL**, **Power BI**, and **Mark
 > _Exploring player performance with window functions and CTEs_
 
 {% include collapsible_project.html
-  summary_text="Click to expand project details"
+  summary_text="Click to expand/collapse project details"
   content="
   A structured SQL and Tableau project analyzing Major League Baseball (MLB) player data from Maven Analytics. The SQL portion focuses on player origins, salaries, and career spans using CTEs, window functions, and aggregation techniques. Tableau brings the findings to life through interactive visuals.
   
